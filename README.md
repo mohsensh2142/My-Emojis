@@ -1,0 +1,2 @@
+# My-Emojis
+ JavaScript project
